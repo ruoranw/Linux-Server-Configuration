@@ -4,9 +4,12 @@ Alt-H1
 
 ###Project Description
 Use **Amazon Lightsail** as a Linux server instance and deploy the **Catalog app** to the web server.Secure the server from a number of attack vectors. Install and configure a database server.
-⋅⋅* IP Address: 52.14.213.209
-⋅* Accessible SSH port: 2200
-⋅* Application URL: http://ec2-52-14-213-209.us-east-2.compute.amazonaws.com
+* IP Address: 52.14.213.209
+
+* Accessible SSH port: 2200
+
+* Application URL: http://ec2-52-14-213-209.us-east-2.compute.amazonaws.com
+
 ###Walkthrough
 
 1. Get a Amazon Lightsail instance and make it run
